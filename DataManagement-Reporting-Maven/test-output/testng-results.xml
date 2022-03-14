@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-13T23:56:43 CST" name="Default suite" finished-at="2022-03-13T23:57:14 CST" duration-ms="31888">
+    <groups>
+    </groups>
+    <test started-at="2022-03-13T23:56:43 CST" name="Default test" finished-at="2022-03-13T23:57:14 CST" duration-ms="31888">
+      <class name="paquete1.DataProviders">
+        <test-method signature="sampleTest1(java.lang.String)[pri:0, instance:paquete1.DataProviders@1f0f1111]" started-at="2022-03-13T23:56:43 CST" name="sampleTest1" data-provider="inputs" finished-at="2022-03-13T23:56:55 CST" duration-ms="12308" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[leslie0373@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest1 -->
+        <test-method signature="sampleTest1(java.lang.String)[pri:0, instance:paquete1.DataProviders@1f0f1111]" started-at="2022-03-13T23:56:55 CST" name="sampleTest1" data-provider="inputs" finished-at="2022-03-13T23:57:05 CST" duration-ms="9847" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[leslieromi2@hotmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest1 -->
+        <test-method signature="sampleTest1(java.lang.String)[pri:0, instance:paquete1.DataProviders@1f0f1111]" started-at="2022-03-13T23:57:05 CST" name="sampleTest1" data-provider="inputs" finished-at="2022-03-13T23:57:14 CST" duration-ms="9682" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[leslie9989@outlook.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest1 -->
+      </class> <!-- paquete1.DataProviders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
